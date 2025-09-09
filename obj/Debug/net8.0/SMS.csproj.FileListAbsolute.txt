@@ -1,0 +1,582 @@
+D:\SMS&LMS\sms\bin\Debug\net8.0\SMS.exe
+D:\SMS&LMS\sms\bin\Debug\net8.0\SMS.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Azure.Core.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SMS&LMS\sms\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.pdb
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.csproj.AssemblyReference.cache
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.AssemblyInfoInputs.cache
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.AssemblyInfo.cs
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.csproj.CoreCompileInputs.cache
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cs
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cache
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.sourcelink.json
+D:\SMS&LMS\sms\obj\Debug\net8.0\SMS.dll
+D:\SMS&LMS\sms\obj\Debug\net8.0\refint\SMS.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\appsettings.Development.json
+D:\SMS&LMS\SMS\bin\Debug\net8.0\appsettings.json
+D:\SMS&LMS\SMS\bin\Debug\net8.0\SMS.deps.json
+D:\SMS&LMS\SMS\bin\Debug\net8.0\SMS.runtimeconfig.json
+D:\SMS&LMS\SMS\bin\Debug\net8.0\SMS.pdb
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Azure.Identity.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Humanizer.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Scrutor.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SMS&LMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SMS&LMS\SMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\SMS&LMS\SMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\SMS&LMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.SMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SMS&LMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.SMS.props
+D:\SMS&LMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMS.props
+D:\SMS&LMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMS.props
+D:\SMS&LMS\SMS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SMS&LMS\SMS\obj\Debug\net8.0\scopedcss\bundle\SMS.styles.css
+D:\SMS&LMS\SMS\obj\Debug\net8.0\SMS.csproj.Up2Date
+D:\SMS&LMS\SMS\obj\Debug\net8.0\SMS.genruntimeconfig.cache
+D:\SMS&LMS\SMS\obj\Debug\net8.0\ref\SMS.dll
+D:\LMS\sms\bin\Debug\net8.0\appsettings.Development.json
+D:\LMS\sms\bin\Debug\net8.0\appsettings.json
+D:\LMS\sms\bin\Debug\net8.0\SMS.exe
+D:\LMS\sms\bin\Debug\net8.0\SMS.deps.json
+D:\LMS\sms\bin\Debug\net8.0\SMS.runtimeconfig.json
+D:\LMS\sms\bin\Debug\net8.0\SMS.dll
+D:\LMS\sms\bin\Debug\net8.0\SMS.pdb
+D:\LMS\sms\bin\Debug\net8.0\Azure.Core.dll
+D:\LMS\sms\bin\Debug\net8.0\Azure.Identity.dll
+D:\LMS\sms\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\LMS\sms\bin\Debug\net8.0\Humanizer.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\LMS\sms\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\LMS\sms\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\LMS\sms\bin\Debug\net8.0\Scrutor.dll
+D:\LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LMS\sms\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LMS\sms\bin\Debug\net8.0\System.CodeDom.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\LMS\sms\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Memory.Data.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\LMS\sms\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\LMS\sms\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LMS\sms\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LMS\sms\obj\Debug\net8.0\SMS.csproj.AssemblyReference.cache
+D:\LMS\sms\obj\Debug\net8.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\LMS\sms\obj\Debug\net8.0\SMS.AssemblyInfoInputs.cache
+D:\LMS\sms\obj\Debug\net8.0\SMS.AssemblyInfo.cs
+D:\LMS\sms\obj\Debug\net8.0\SMS.csproj.CoreCompileInputs.cache
+D:\LMS\sms\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cs
+D:\LMS\sms\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cache
+D:\LMS\sms\obj\Debug\net8.0\SMS.sourcelink.json
+D:\LMS\sms\obj\Debug\net8.0\staticwebassets.build.json
+D:\LMS\sms\obj\Debug\net8.0\staticwebassets.development.json
+D:\LMS\sms\obj\Debug\net8.0\staticwebassets\msbuild.SMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LMS\sms\obj\Debug\net8.0\staticwebassets\msbuild.build.SMS.props
+D:\LMS\sms\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMS.props
+D:\LMS\sms\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMS.props
+D:\LMS\sms\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LMS\sms\obj\Debug\net8.0\scopedcss\bundle\SMS.styles.css
+D:\LMS\sms\obj\Debug\net8.0\SMS.csproj.Up2Date
+D:\LMS\sms\obj\Debug\net8.0\SMS.dll
+D:\LMS\sms\obj\Debug\net8.0\refint\SMS.dll
+D:\LMS\sms\obj\Debug\net8.0\SMS.pdb
+D:\LMS\sms\obj\Debug\net8.0\SMS.genruntimeconfig.cache
+D:\LMS\sms\obj\Debug\net8.0\ref\SMS.dll
+D:\LMS\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\LMS\backend\bin\Debug\net8.0\appsettings.json
+D:\LMS\backend\bin\Debug\net8.0\SMS.exe
+D:\LMS\backend\bin\Debug\net8.0\SMS.deps.json
+D:\LMS\backend\bin\Debug\net8.0\SMS.runtimeconfig.json
+D:\LMS\backend\bin\Debug\net8.0\SMS.dll
+D:\LMS\backend\bin\Debug\net8.0\SMS.pdb
+D:\LMS\backend\bin\Debug\net8.0\Azure.Core.dll
+D:\LMS\backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\LMS\backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\LMS\backend\bin\Debug\net8.0\Humanizer.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\LMS\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\LMS\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\LMS\backend\bin\Debug\net8.0\Scrutor.dll
+D:\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LMS\backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\LMS\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\LMS\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LMS\backend\obj\Debug\net8.0\SMS.csproj.AssemblyReference.cache
+D:\LMS\backend\obj\Debug\net8.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\LMS\backend\obj\Debug\net8.0\SMS.AssemblyInfoInputs.cache
+D:\LMS\backend\obj\Debug\net8.0\SMS.AssemblyInfo.cs
+D:\LMS\backend\obj\Debug\net8.0\SMS.csproj.CoreCompileInputs.cache
+D:\LMS\backend\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cs
+D:\LMS\backend\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cache
+D:\LMS\backend\obj\Debug\net8.0\SMS.sourcelink.json
+D:\LMS\backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\LMS\backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\LMS\backend\obj\Debug\net8.0\staticwebassets\msbuild.SMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LMS\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.SMS.props
+D:\LMS\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMS.props
+D:\LMS\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMS.props
+D:\LMS\backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LMS\backend\obj\Debug\net8.0\scopedcss\bundle\SMS.styles.css
+D:\LMS\backend\obj\Debug\net8.0\SMS.csproj.Up2Date
+D:\LMS\backend\obj\Debug\net8.0\SMS.dll
+D:\LMS\backend\obj\Debug\net8.0\refint\SMS.dll
+D:\LMS\backend\obj\Debug\net8.0\SMS.pdb
+D:\LMS\backend\obj\Debug\net8.0\SMS.genruntimeconfig.cache
+D:\LMS\backend\obj\Debug\net8.0\ref\SMS.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\appsettings.json
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\SMS.staticwebassets.runtime.json
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\SMS.exe
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\SMS.deps.json
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\SMS.runtimeconfig.json
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\SMS.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\SMS.pdb
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Azure.Core.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Humanizer.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\MailKit.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\MimeKit.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Scrutor.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\LMS\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.csproj.AssemblyReference.cache
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.AssemblyInfoInputs.cache
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.AssemblyInfo.cs
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.csproj.CoreCompileInputs.cache
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.sourcelink.json
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\staticwebassets\msbuild.SMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.SMS.props
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMS.props
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMS.props
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\scopedcss\bundle\SMS.styles.css
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.csproj.Up2Date
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.dll
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\refint\SMS.dll
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.pdb
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.genruntimeconfig.cache
+D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\ref\SMS.dll

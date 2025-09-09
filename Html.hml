@@ -1,0 +1,92 @@
+  modelBuilder.Entity<Student>()
+        .ToTable("Students") // Map to the correct table name
+        .HasKey(s => s.StudentId); // Define the primary key
+
+        modelBuilder.Entity<Student>()
+        .Property(s => s.UserId)
+        .HasColumnName("UserId"); // Explicitly map the column
+
+        modelBuilder.Entity<Student>()
+        .HasOne(s => s.User) // Map the relationship to User
+        .WithMany() // Or WithOne(), depending on your relationship
+        .HasForeignKey(s => s.UserId) // Explicit foreign key
+        .OnDelete(DeleteBehavior.Cascade); // Optional: Set delete behavior
+
+
+            // Configure RolePermission composite key
+        modelBuilder.Entity<RolePermission>()
+            .HasKey(rp => new { rp.RoleId, rp.PermissionId });
+
+        // Configure many-to-many relationship between Role and Permission
+        modelBuilder.Entity<RolePermission>()
+            .HasOne(rp => rp.Role)
+            .WithMany(r => r.RolePermissions)
+            .HasForeignKey(rp => rp.RoleId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        modelBuilder.Entity<RolePermission>()
+            .HasOne(rp => rp.Permission)
+            .WithMany(p => p.RolePermissions)
+            .HasForeignKey(rp => rp.PermissionId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+         modelBuilder.Entity<Role>()
+        .HasIndex(r => r.RoleName)
+        .IsUnique();
+
+        // Configure the relationship between User and Role
+        modelBuilder.Entity<User>()
+            .HasOne(u => u.Roles)
+            .WithMany() // Assuming Role has a collection of Users
+            .HasPrincipalKey(r => r.RoleName) // Use Role.Name as the principal key
+            .HasForeignKey(u => u.Role)   // Use User.Role as the foreign key
+            .OnDelete(DeleteBehavior.Restrict); // Optional: restrict deletion of related roles
+
+        modelBuilder.Entity<Course>()
+        .HasOne(c => c.Teacher)                   // Navigation property
+        .WithMany()                               // Assuming a Teacher can have multiple Courses
+        .HasForeignKey(c => c.TeacherName)        // Foreign key in Course
+        .HasPrincipalKey(t => t.TeacherName);     // Unique key in Teacher table
+
+        modelBuilder.Entity<Enrollment>()
+        .HasKey(e => e.Id);
+
+    modelBuilder.Entity<Enrollment>()
+        .HasOne(e => e.Course)
+        .WithMany(c => c.Enrollments)
+        .HasForeignKey(e => e.CourseId);
+
+    modelBuilder.Entity<Enrollment>()
+        .HasOne(e => e.User) // Only if you have a navigation property
+        .WithMany()
+        .HasForeignKey(e => e.UserId)
+        .OnDelete(DeleteBehavior.Cascade);
+
+    modelBuilder.Entity<Admin>()
+        .HasOne(a => a.User)
+        .WithMany(u => u.Admins)
+        .HasForeignKey(a => a.UserId);
+
+    // User to Finance relationship
+    modelBuilder.Entity<Finance>()
+        .HasOne(f => f.User)
+        .WithMany(u => u.Finances)
+        .HasForeignKey(f => f.UserId);
+
+    // User to Teacher relationship
+    modelBuilder.Entity<Teacher>()
+        .HasOne(t => t.User)
+        .WithMany(u => u.Teachers)
+        .HasForeignKey(t => t.UserId);    
+    }
+
+    public Guid StudentId { get; set; } = Guid.NewGuid();
+    public Guid UserId { get; set; }
+    public string FullName { get; set; } = string.Empty;
+    public string RegNumber { get; set; } = string.Empty;
+    public DateTime EnrollmentDate { get; set; }
+    public string? PhoneNumber { get; set; }
+    public string? Email { get; set; }
+
+    // Navigation Property
+    public User? User { get; set; }
