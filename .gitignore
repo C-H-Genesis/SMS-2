@@ -1,0 +1,26 @@
+﻿# .gitignore (C# backend + Angular frontend - adjust as needed)
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Core (local secrets)
+appsettings.*.json
+
+# Node / Angular (if you add frontend here)
+node_modules/
+dist/
+.angular/
+npm-debug.log
+yarn-error.log
+
+# Environment and logs
+.env
+*.log
+.DS_Store
