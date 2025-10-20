@@ -580,3 +580,14 @@ D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\refint\SMS.dll
 D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.pdb
 D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\SMS.genruntimeconfig.cache
 D:\New folder\LMS\LMS\backend\obj\Debug\net8.0\ref\SMS.dll
+D:\LMS\backend\bin\Debug\net8.0\SMS.staticwebassets.runtime.json
+D:\LMS\backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\LMS\backend\bin\Debug\net8.0\MailKit.dll
+D:\LMS\backend\bin\Debug\net8.0\MimeKit.dll
+D:\LMS\backend\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\LMS\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\LMS\backend\bin\Debug\net8.0\publish\web.config
+D:\LMS\backend\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\LMS\backend\bin\Debug\net8.0\publish\appsettings.json
+D:\LMS\backend\bin\Debug\net8.0\publish\SMS.deps.json
+D:\LMS\backend\bin\Debug\net8.0\publish\SMS.runtimeconfig.json

@@ -425,7 +425,8 @@ namespace Services
                 Email = s.Email,
                 RegNumber = s.RegNumber,
                 UserType = s.UserType,
-                FacultyId = s.FacultyId
+                FacultyId = s.FacultyId,
+                IsActive = s.IsActive
             }).ToList();
         }
 

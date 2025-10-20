@@ -11,11 +11,10 @@ obj/
 .vscode/
 
 # ASP.NET Core (local secrets)
-appsettings.*.json
+
 
 # Node / Angular (if you add frontend here)
 node_modules/
-dist/
 .angular/
 npm-debug.log
 yarn-error.log

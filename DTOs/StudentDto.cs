@@ -9,5 +9,6 @@ namespace DTOs
         public string? RegNumber { get; set; }
         public int FacultyId { get; set; }
         public string? UserType {get; set;}
+        public bool IsActive { get; set;}
     }
 } 

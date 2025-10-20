@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\LMS\\LMS\\backend\\SMS.csproj": {}
+    "D:\\LMS\\backend\\SMS.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\LMS\\LMS\\backend\\SMS.csproj": {
+    "D:\\LMS\\backend\\SMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\LMS\\LMS\\backend\\SMS.csproj",
+        "projectUniqueName": "D:\\LMS\\backend\\SMS.csproj",
         "projectName": "SMS",
-        "projectPath": "D:\\New folder\\LMS\\LMS\\backend\\SMS.csproj",
+        "projectPath": "D:\\LMS\\backend\\SMS.csproj",
         "packagesPath": "C:\\Users\\SOOQ ELASER\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\LMS\\LMS\\backend\\obj\\",
+        "outputPath": "D:\\LMS\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SOOQ ELASER\\AppData\\Roaming\\NuGet\\NuGet.Config"
