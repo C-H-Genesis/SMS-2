@@ -121,7 +121,7 @@ builder.Services.AddEndpointsApiExplorer();
 
 
 
-var app = builder.Build();
+/*  var app = builder.Build();
 
 app.UseSwagger();
 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API v1"));
@@ -164,6 +164,53 @@ app.UseStaticFiles(new StaticFileOptions
 });
 
 
+
+app.MapControllers();
+app.Run();
+*/
+
+var app = builder.Build();
+
+// Enable Swagger/SwaggerUI globally (unchanged)
+app.UseSwagger();
+app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API v1"));
+
+// *** FIX: Correct middleware order ***
+if (!app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
+
+app.UseRouting();  // <-- ADD THIS: Ensures routing before CORS
+
+app.UseCors("AllowAll");  // <-- Now correctly positioned after UseRouting
+
+app.UseAuthentication();
+app.UseAuthorization();
+
+// Static files setup (unchanged, but moved for clarity)
+string webRoot = app.Environment.WebRootPath;
+if (string.IsNullOrEmpty(webRoot))
+{
+    webRoot = Path.Combine(app.Environment.ContentRootPath, "wwwroot");
+}
+
+if (!Directory.Exists(webRoot))
+{
+    Directory.CreateDirectory(webRoot);
+}
+
+string uploadsFolder = Path.Combine(webRoot, "uploads");
+if (!Directory.Exists(uploadsFolder))
+{
+    Directory.CreateDirectory(uploadsFolder);
+}
+
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(uploadsFolder),
+    RequestPath = "/uploads"
+});
 
 app.MapControllers();
 app.Run();

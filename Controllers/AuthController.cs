@@ -13,12 +13,14 @@ using ApplicationDbContext;
 using System.Security.Cryptography;
 using DTOs;
 using EmailAuth;
+using Microsoft.AspNetCore.Cors; 
 
 
 namespace AuthController
 {
     [ApiController]
     [Route("api/auth")]
+    [EnableCors("AllowAll")]
     public class AuthController : ControllerBase
     {
         private readonly SMSDbContext _context;
