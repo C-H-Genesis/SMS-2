@@ -591,3 +591,13 @@ D:\LMS\backend\bin\Debug\net8.0\publish\appsettings.Development.json
 D:\LMS\backend\bin\Debug\net8.0\publish\appsettings.json
 D:\LMS\backend\bin\Debug\net8.0\publish\SMS.deps.json
 D:\LMS\backend\bin\Debug\net8.0\publish\SMS.runtimeconfig.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\web.config
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\web.config
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\appsettings.Development.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\appsettings.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\appsettings.Development.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\appsettings.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\SMS.deps.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\SMS.runtimeconfig.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\SMS.deps.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\SMS.runtimeconfig.json
