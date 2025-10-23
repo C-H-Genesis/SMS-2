@@ -212,6 +212,27 @@ app.UseStaticFiles(new StaticFileOptions
     RequestPath = "/uploads"
 });
 
+// --- debug middleware: log raw request bodies and exceptions (temporary) ---
+app.Use(async (context, next) =>
+{
+    try
+    {
+        context.Request.EnableBuffering();
+        using var reader = new StreamReader(context.Request.Body, Encoding.UTF8, leaveOpen: true);
+        var body = await reader.ReadToEndAsync();
+        context.Request.Body.Position = 0;
+        Console.WriteLine($"[REQUEST BODY] {context.Request.Path} -> {body}");
+        await next();
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"[UNHANDLED EXCEPTION] {ex.GetType().FullName}: {ex.Message}\n{ex.StackTrace}");
+        throw; // rethrow so normal error middleware still runs
+    }
+});
+// --------------------------------------------------------------------------------
+
+
 app.MapControllers();
 app.Run();
 

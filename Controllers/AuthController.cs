@@ -203,53 +203,53 @@ namespace AuthController
 
 
         // Login Method
-        [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] LoginRequest request)
-        {
-            if (string.IsNullOrWhiteSpace(request.Username) || string.IsNullOrWhiteSpace(request.Password))
+            [HttpPost("login")]
+            public async Task<IActionResult> Login([FromBody] LoginRequest request)
             {
-                return BadRequest("Username and password are required.");
-            }
-
-            var user = await _context.Users
-            .Where(u => u.Username == request.Username)
-             .Select(u => new LoginUserDto
-            {
-                UserId = u.UserId,
-                Username = u.Username,
-                FullName = u.FullName,
-                PasswordHash = u.PasswordHash,
-                IsActive = u.IsActive,
-                Roles = u.Roles.Select(r => new RoleDto
+                if (string.IsNullOrWhiteSpace(request.Username) || string.IsNullOrWhiteSpace(request.Password))
                 {
-                    RoleId = r.RoleId,
-                    RoleName = r.RoleName
-                }).ToList()
-            })
-            .FirstOrDefaultAsync();
+                    return BadRequest("Username and password are required.");
+                }
+
+                var user = await _context.Users
+                .Where(u => u.Username == request.Username)
+                .Select(u => new LoginUserDto
+                {
+                    UserId = u.UserId,
+                    Username = u.Username,
+                    FullName = u.FullName,
+                    PasswordHash = u.PasswordHash,
+                    IsActive = u.IsActive,
+                    Roles = u.Roles.Select(r => new RoleDto
+                    {
+                        RoleId = r.RoleId,
+                        RoleName = r.RoleName
+                    }).ToList()
+                })
+                .FirstOrDefaultAsync();
 
 
-            if (user == null)
-            {
-                return Unauthorized("Invalid username or password.");
+                if (user == null)
+                {
+                    return Unauthorized("Invalid username or password.");
+                }
+
+                if (!user.IsActive)
+                return Unauthorized(new { message = "This account has been disabled." });
+
+
+                // Verify the input password matches the hashed password in the database
+                bool isPasswordValid = BCrypt.Net.BCrypt.Verify(request.Password, user.PasswordHash);
+                if (!isPasswordValid)
+                {
+                    return Unauthorized("Invalid username or password.");
+                }
+
+            
+                    var token = GenerateToken(user);
+                    return Ok(new { token = token });
+
             }
-
-            if (!user.IsActive)
-              return Unauthorized(new { message = "This account has been disabled." });
-
-
-            // Verify the input password matches the hashed password in the database
-            bool isPasswordValid = BCrypt.Net.BCrypt.Verify(request.Password, user.PasswordHash);
-            if (!isPasswordValid)
-            {
-                return Unauthorized("Invalid username or password.");
-            }
-
-           
-                var token = GenerateToken(user);
-                return Ok(new { token = token });
-
-        }
 
         //            Reset Password             //
 
