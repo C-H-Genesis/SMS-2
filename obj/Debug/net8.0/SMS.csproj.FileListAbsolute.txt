@@ -601,3 +601,8 @@ D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\SMS.deps.json
 D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\SMS.runtimeconfig.json
 D:\LMS\backend\bin\Debug\net8.0\publish\publish\SMS.deps.json
 D:\LMS\backend\bin\Debug\net8.0\publish\publish\SMS.runtimeconfig.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\publish\web.config
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\publish\appsettings.Development.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\publish\appsettings.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\publish\SMS.deps.json
+D:\LMS\backend\bin\Debug\net8.0\publish\publish\publish\publish\SMS.runtimeconfig.json
